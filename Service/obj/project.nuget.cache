@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Rq3a2pLKkTR1NzBtTMujxyXqN02WkqH4mXX4M0xm7OUNfs8utn8Ao27fc9QdIuZe/sa5p7jfxqEm3fgn0wqMSA==",
+  "dgSpecHash": "MyvXp1e3rfmXg238I6AJvgWe1jn4NlndCR6WmolebjJhLcmqeIbhuVi35cZxIaRsJ8yslhXGXPYpuj2IT85Z1w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\arthu\\C#\\TDD-trilha-dotnet\\Service\\Service.csproj",
+  "projectFilePath": "c:\\Users\\arthu\\C#\\TDD-trilha-dotnet\\Service\\Service.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

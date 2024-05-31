@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\arthu\\C#\\TDD-trilha-dotnet\\Service\\Service.csproj": {}
+    "c:\\Users\\arthu\\C#\\TDD-trilha-dotnet\\Service\\Service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\arthu\\C#\\TDD-trilha-dotnet\\Service\\Service.csproj": {
+    "c:\\Users\\arthu\\C#\\TDD-trilha-dotnet\\Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arthu\\C#\\TDD-trilha-dotnet\\Service\\Service.csproj",
+        "projectUniqueName": "c:\\Users\\arthu\\C#\\TDD-trilha-dotnet\\Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "C:\\Users\\arthu\\C#\\TDD-trilha-dotnet\\Service\\Service.csproj",
+        "projectPath": "c:\\Users\\arthu\\C#\\TDD-trilha-dotnet\\Service\\Service.csproj",
         "packagesPath": "C:\\Users\\arthu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arthu\\C#\\TDD-trilha-dotnet\\Service\\obj\\",
+        "outputPath": "c:\\Users\\arthu\\C#\\TDD-trilha-dotnet\\Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\arthu\\AppData\\Roaming\\NuGet\\NuGet.Config",

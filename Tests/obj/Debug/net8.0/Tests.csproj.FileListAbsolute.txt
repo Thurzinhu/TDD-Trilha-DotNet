@@ -103,3 +103,4 @@ C:\Users\arthu\C#\TDD-trilha-dotnet\Tests\obj\Debug\net8.0\refint\Tests.dll
 C:\Users\arthu\C#\TDD-trilha-dotnet\Tests\obj\Debug\net8.0\Tests.pdb
 C:\Users\arthu\C#\TDD-trilha-dotnet\Tests\obj\Debug\net8.0\Tests.genruntimeconfig.cache
 C:\Users\arthu\C#\TDD-trilha-dotnet\Tests\obj\Debug\net8.0\ref\Tests.dll
+c:\Users\arthu\C#\TDD-trilha-dotnet\Tests\obj\Debug\net8.0\Tests.sourcelink.json

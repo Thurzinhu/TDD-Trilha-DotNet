@@ -5529,11 +5529,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\arthu\\C#\\TDD-trilha-dotnet\\Tests\\Tests.csproj",
+      "projectUniqueName": "c:\\Users\\arthu\\C#\\TDD-trilha-dotnet\\Tests\\Tests.csproj",
       "projectName": "Tests",
-      "projectPath": "C:\\Users\\arthu\\C#\\TDD-trilha-dotnet\\Tests\\Tests.csproj",
+      "projectPath": "c:\\Users\\arthu\\C#\\TDD-trilha-dotnet\\Tests\\Tests.csproj",
       "packagesPath": "C:\\Users\\arthu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\arthu\\C#\\TDD-trilha-dotnet\\Tests\\obj\\",
+      "outputPath": "c:\\Users\\arthu\\C#\\TDD-trilha-dotnet\\Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\arthu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5550,8 +5550,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\arthu\\C#\\TDD-trilha-dotnet\\Service\\Service.csproj": {
-              "projectPath": "C:\\Users\\arthu\\C#\\TDD-trilha-dotnet\\Service\\Service.csproj"
+            "c:\\Users\\arthu\\C#\\TDD-trilha-dotnet\\Service\\Service.csproj": {
+              "projectPath": "c:\\Users\\arthu\\C#\\TDD-trilha-dotnet\\Service\\Service.csproj"
             }
           }
         }
